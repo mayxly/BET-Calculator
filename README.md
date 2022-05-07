@@ -4,7 +4,7 @@ bet_read() reads one binary expression, which must be represented in Polish nota
 - Supported operators are binary + and * (all operators support exactly two operants).
 - Supported values are integers between 0 and 9 (both inclusive). 
 
-For example:
+For example:\
 Input: (+ 3 ( * ( + 5 9 ) 2 ) )\
 Output: "The BET evaluates to 31."
 <br />
